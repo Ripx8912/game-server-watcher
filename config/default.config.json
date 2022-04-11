@@ -34,10 +34,22 @@
         "telegram": {
             "chatIds": []
         }
-    },  
+    },
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 16261,
+        "port": 5000,
+        "type": "eco",
+        "appId": 0,
+        "discord": {
+            "channelIds": ["849445775867379762"]
+        },
+        "telegram": {
+            "chatIds": []
+        }
+    },
+    {
+        "host": "nusantarasurvival.ddns.net",
+        "port": 16262,
         "type": "pz",
         "appId": 0,
         "discord": {
