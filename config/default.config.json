@@ -37,7 +37,7 @@
     },
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 5001,
+        "port": 5002,
         "type": "eco",
         "appId": 0,
         "discord": {
@@ -49,7 +49,7 @@
     },
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 8767,
+        "port": 16261,
         "type": "pz",
         "appId": 0,
         "discord": {
