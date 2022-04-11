@@ -38,7 +38,7 @@
     {
         "host": "nusantarasurvival.ddns.net",
         "port": 16261,
-        "type": "pz",
+        "type": "przomboid",
         "appId": 0,
         "discord": {
             "channelIds": ["930226606054711317"]
