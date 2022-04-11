@@ -1,7 +1,7 @@
 [
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 8885,
+        "port": 28010,
         "type": "conanexiles",
         "appId": 0,
         "discord": {
@@ -25,7 +25,7 @@
     },    
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 16261,
+        "port": 8766,
         "type": "pz",
         "appId": 0,
         "discord": {
