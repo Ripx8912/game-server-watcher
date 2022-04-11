@@ -13,6 +13,18 @@
     },
     {
         "host": "nusantarasurvival.ddns.net",
+        "port": 2405,
+        "type": "dayz",
+        "appId": 0,
+        "discord": {
+            "channelIds": ["854615681807286312"]
+        },
+        "telegram": {
+            "chatIds": []
+        }
+    },    
+    {
+        "host": "nusantarasurvival.ddns.net",
         "port": 16261,
         "type": "pz",
         "appId": 0,
