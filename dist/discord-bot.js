@@ -176,7 +176,7 @@ class ServerInfoMessage {
             embed.setImage(gs.history.statsChart(gs.info.playersMax));
         }
         else {
-                await this.channel.send('<@851762910731698176> server is not responding...');
+                await this.channel.send('<@&851762910731698176> server is not responding...');
             }
         try {
             await this.message.edit(null, { embed });
