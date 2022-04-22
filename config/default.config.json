@@ -3,7 +3,7 @@
         "host": "nusantarasurvival.ddns.net",
         "port": 28009,
         "type": "conanexiles",
-        "appId": 0,
+        "appId": 440900,
         "discord": {
             "channelIds": ["874266786659446804"]
         },
@@ -13,9 +13,9 @@
     },
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 2405,
+        "port": 2505,
         "type": "dayz",
-        "appId": 0,
+        "appId": 221100,
         "discord": {
             "channelIds": ["854615681807286312"]
         },
@@ -27,7 +27,7 @@
         "host": "nusantarasurvival.ddns.net",
         "port": 30001,
         "type": "rust",
-        "appId": 0,
+        "appId": 252490,
         "discord": {
             "channelIds": ["823909750391046211"]
         },
@@ -39,7 +39,7 @@
         "host": "nusantarasurvival.ddns.net",
         "port": 16261,
         "type": "przomboid",
-        "appId": 0,
+        "appId": 108600,
         "discord": {
             "channelIds": ["930226606054711317"]
         },
