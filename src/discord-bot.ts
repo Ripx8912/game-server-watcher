@@ -200,7 +200,9 @@ class ServerInfoMessage {
 
             embed.setImage(gs.history.statsChart(gs.info.playersMax));
         }
-
+            else {
+                    await this.channel.send('@admins server is not responding...');
+                }
         try {
             await this.message.edit(null, { embed });
         } catch (e: any) {
