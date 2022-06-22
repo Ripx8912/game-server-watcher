@@ -1,18 +1,6 @@
 [
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 28009,
-        "type": "conanexiles",
-        "appId": 440900,
-        "discord": {
-            "channelIds": ["874266786659446804"]
-        },
-        "telegram": {
-            "chatIds": []
-        }
-    },
-    {
-        "host": "nusantarasurvival.ddns.net",
         "port": 2505,
         "type": "dayz",
         "appId": 221100,
