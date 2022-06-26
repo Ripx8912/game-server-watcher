@@ -5,7 +5,7 @@
         "type": "dayz",
         "appId": 221100,
         "discord": {
-            "channelIds": ["990234179637743696"]
+            "channelIds": ["990749611327103016"]
         },
         "telegram": {
             "chatIds": []
@@ -17,7 +17,7 @@
         "type": "rust",
         "appId": 252490,
         "discord": {
-            "channelIds": ["990234135228465222"]
+            "channelIds": ["990749711461908500"]
         },
         "telegram": {
             "chatIds": []
