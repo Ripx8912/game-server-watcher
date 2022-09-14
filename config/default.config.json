@@ -1,7 +1,7 @@
 [
     {
         "host": "nusantarasurvival.ddns.net",
-        "port": 2505,
+        "port": 3505,
         "type": "dayz",
         "appId": 221100,
         "discord": {
